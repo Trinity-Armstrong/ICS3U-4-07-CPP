@@ -1,7 +1,7 @@
 // Copyright (c) 2019 Trinity Armstrong All rights reserved.
 //
 // Created by: Trinity Armstrong
-// Created on: October 2019
+// Created on: November 2019
 // This program outputs all integers between 1000 - 2000 (5 int/line)
 
 #include <iostream>
